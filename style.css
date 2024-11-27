@@ -4,8 +4,18 @@
     border: 3px solid green;
     width: 960px;
     height: 960px;
-    margin: 100px auto;
+    margin: 0px auto;
     display: flex;
     flex-wrap: wrap;
 }
 
+.buttons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 10px 20px;
+}
+
+.resizer {
+    margin: 0px auto;
+}
