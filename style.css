@@ -1,4 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
+
+
+#container{
+    border: 3px solid green;
+    width: 960px;
+    height: 960px;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
 }
+
